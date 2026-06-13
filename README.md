@@ -79,4 +79,3 @@ This dashboard enables stakeholders to:
 
 Prerana
 
-Data Scientist | Data Analyst | AI Enthusiast
